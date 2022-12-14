@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MyDecisionFriend</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_contraseña">Contraseña</string>
+    <string name="txt_n_cuenta">Nueva Cuenta</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_foto_perfil">Foto de perfil</string>
+    <string name="txt_nacimiento">Fecha nacimiento</string>
+    <!--Strings para perfil-->
+    <string name="txt_actividades">Actividades</string>
+    <string name="txt_last_foto">Ultimas Fotos</string>
+    <string name="txt_amigos_plan">Amigos en el plan</string>
+    <string name="txt_yo">Yo</string>
+    <string name="txt_amigos">Amigos</string>
+    <!--Strings para niveles-->
+    <string name="txt_nivel1">Nivel 1</string>
+    <string name="txt_nivel1_d">Para pasar el tiempo</string>
+    <string name="txt_nivel2">Nivel 2</string>
+    <string name="txt_nivel2_d">Quiero un reto</string>
+    <string name="txt_nivel3">Nivel 3</string>
+    <string name="txt_nivel3_d">Estás loco</string>
+    <!--String para foto -->
+    <string name="tit_txt_sacarFoto">¡Un segundo!</string>
+    <string name="txt_sacarFoto">Es el momento de sacarte una foto con tus amigos y guardarla como recuerdo.</string>
+    <!--Strings de acciones -->
+    <string name="txt_guardar">Guardar</string>
+    <string name="txt_aceptar">Aceptar</string>
+    <string name="txt_paso">Paso</string>
+    <string name="txt_jugar">Jugar</string>
+    <string name="txt_registrarse">Registrarse</string>
+    <string name="txt_ini_sesion">Iniciar Sesion</string>
+    <string name="txt_n_partida">Nueva Partida</string>
+    <!--Strings para planes -->
+    <string name="txt_realizando_plan">Realizando plan</string>
+    <string name="txt_plan_realizado">El plan se ha realizado con éxito.Estos son los puntos que acumulas:</string>
+    <!-- Strings de validacion -->
+    <string name="txt_validacion">¿Estas seguro?</string>
+    <string name="txt_error">¡Error!</string>
+    <string name="txt_exito">¡Enhorabuena!</string>
+    <string name="txt_seleccionar">Seleccionar</string>
+    <!--Strings pantalla ruleta -->
+    <string name="txt_ruleta">¡Gira la ruleta!</string>
+    <!--Strings nuevo plan -->
+    <string name="txt_idea">¿Tienes alguna idea?</string>
+    <string name="sub_txt_idea">Como eres un usuario experto puedes sugerirnos un nuevo plan si quieres.</string>
+    <string name="txt_n_plan">Sugerir nuevo plan</string>
+
+    <string name="txt_n_plan_nombre">Nombre del nuevo plan</string>
+    <string name="txt_n_plan_categoria">Nivel del plan</string>
+    <string name="txt_n_plan_d">Descripción del plan</string>
+    <string name="txt_n_plan_d_sub">Cuentanos brevemente en qué consistiría ese plan y porqué se merece ese nivel</string>
+
+    <!--Strings para error -->
+    <string name="txt_e_email">Formato de email no válido</string>
+    <string name="txt_e_nombre">Formato de nombre no válido(Al menos un Mayus.)</string>
+    <string name="txt_e_contraseña">Formato de contraseña no válido</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu_my_decision_friend">menuMyDecisionFriend</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>

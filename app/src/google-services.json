@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171321236895",
+    "firebase_url": "https://appmydecisionfriend-default-rtdb.firebaseio.com",
+    "project_id": "appmydecisionfriend",
+    "storage_bucket": "appmydecisionfriend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171321236895:android:e7d1141f28cd2e36b8b1aa",
+        "android_client_info": {
+          "package_name": "org.xoan.mydecisionfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171321236895-3196ng9m7oae1o45q0ie8nst08a12ba9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.xoan.mydecisionfriend",
+            "certificate_hash": "d89c610d8f8a8c6381b551649550b7cdaa385ffc"
+          }
+        },
+        {
+          "client_id": "171321236895-gtts514p7r0c386ffrc55ie13k9rssjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOVy65Zj-L59IoJ7UqAqk7MXL5II8vQ60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171321236895-gtts514p7r0c386ffrc55ie13k9rssjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
